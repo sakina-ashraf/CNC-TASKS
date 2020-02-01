@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>chap 7 forms</title>
+    </head>
+    <body>
+        <h1>Chapter#7-Forms</h1>
+        <form>
+            <fieldset>
+                <legend>Your Details</legend>
+            <p>Name: <input type="text" size="30" maxlength="30"></p>    
+            <p>Email: <input type="Email" size="30" maxlength="30"></p>
+
+            </fieldset>
+               <br/>
+               <fieldset>
+                   <legend>Your Review</legend>
+                   <br />
+                 <p>How did you hear about us?<select>
+                <option>Google</option>
+                <option>instagram</option>
+                <option>facebook</option>
+                <option>Wattsapp</option>
+            </select>
+                 </p>
+
+            <p>Would you visit again? 
+                <br />
+                <input type="radio" name="gender" value=Y>Yes
+                <input type="radio" name="gender" value=N>No 
+                <input type="radio" name="gender" value=M>May be
+            </p>Comments:<br/>
+                <textarea name="" rows=4 cols=40></textarea>
+            </p>
+
+                <label>
+                <input type="checkbox" name="subscribe" checked="checked" />
+                Sign me up for email updates
+                </label>
+                <br />
+                <button>Submit Review</button>
+                </fieldset>
+         </form>
+
+        
+        
+    </body>
+</html>

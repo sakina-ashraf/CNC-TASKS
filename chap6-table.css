@@ -1,0 +1,58 @@
+table.tab1
+{
+    border-style:none ;
+}
+td.type1
+{
+    background-color: yellow;
+}
+td.type2
+{
+    background-color: Green;
+    color:black ;
+}
+td.type3
+{
+    background-color: skyblue;
+    color:black ;
+}
+td.type4
+{
+    background-color: red;
+    color:black ;
+}
+td.type5
+{
+    background-color: orange;
+    color:black ;
+}
+td.type6
+{
+    background-color: purple;
+    color:black ;
+}
+td.type7
+{
+    background-color: yellow;
+    color:black ;
+}
+td.type8
+{
+    background-color: #fa3388;
+    color:black ;
+}
+td.type9
+{
+    background-color: lightgreen;
+    color:black ;
+}
+td.type10
+{
+    background-color: gray;
+    color:black ;
+}
+td.type11
+{
+    background-color: lightpink;
+    color:black ;
+}
